@@ -1,0 +1,9 @@
+.overly{
+  filter: brightness(40%);
+}
+.custom-bg{
+  background:white;
+}
+.carousel-custom-items{
+  top: 40%;
+}
