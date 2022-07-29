@@ -7,3 +7,23 @@
 .carousel-custom-items{
   top: 40%;
 }
+body{
+  font-family: 'Poppins', sans-serif;
+}
+.btn-outline-sky{
+  color: deepskyblue;
+  border: 1px solid deepskyblue;
+  padding: 12px 20-px;
+}
+.text-sky{
+  color: deepskyblue;
+}
+.bg-sky{
+  background:deepskyblue;
+}
+.bg-gray{
+  background: grey;
+}
+.text-gray{
+  color: gray;
+}
